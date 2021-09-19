@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "Math\Math.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueAndReferenceTypes", "ValueAndReferenceTypes\ValueAndReferenceTypes.csproj", "{4722B09D-25C9-4825-917B-4E60509E5E59}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders3Odev2", "Ders3Odev2\Ders3Odev2.csproj", "{6E6D7A3B-6244-4789-85AE-A2A3EE4B3EBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{4722B09D-25C9-4825-917B-4E60509E5E59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4722B09D-25C9-4825-917B-4E60509E5E59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4722B09D-25C9-4825-917B-4E60509E5E59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E6D7A3B-6244-4789-85AE-A2A3EE4B3EBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E6D7A3B-6244-4789-85AE-A2A3EE4B3EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E6D7A3B-6244-4789-85AE-A2A3EE4B3EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E6D7A3B-6244-4789-85AE-A2A3EE4B3EBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
