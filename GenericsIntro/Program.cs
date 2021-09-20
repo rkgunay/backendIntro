@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace GenericsIntro
 {
@@ -14,6 +15,9 @@ namespace GenericsIntro
             Console.WriteLine(names.Length);
             names.Add("Engin");
             Console.WriteLine(names.Length);
+
+            Dictionary<int, int> dictionary = new Dictionary<int, int>();
+            dictionary.Add(1, 1);
 
             foreach (var item in names.Items)
             {
